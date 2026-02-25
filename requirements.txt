@@ -1,0 +1,7 @@
+django
+django-ninja
+python-jose
+passlib
+python-dotenv
+psycopg[binary]
+django-cors-headers
